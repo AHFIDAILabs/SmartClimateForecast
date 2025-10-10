@@ -1,2 +1,2 @@
-# AI-Climate-Forecasting-System
-A machine learning–powered system for predicting climate patterns and environmental changes using AI and data-driven insights.
+# Climate AI Forecasting System
+An AI-powered climate forecasting system that integrates digital twin technology, IoT sensors, and hydrological models to deliver real-time flood and drought predictions for improved water resource management.
